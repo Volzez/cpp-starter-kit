@@ -1,0 +1,10 @@
+# Ignore executables (files with no extension)
+*
+!*.*
+!*/
+
+# Ignore specific temp files
+tempCodeRunnerFile.cpp
+
+# Ignore VS Code settings
+.vscode/
